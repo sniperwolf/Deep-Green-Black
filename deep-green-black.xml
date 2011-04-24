@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
+
 <!--
 Style Name:	Deep Green Black
 Description:	Based on the theme "Port VibrantInk" by tyler and "DeepBlack" by Mariusz Kasperkiewicz
 File name:	deep-green-black.xml
 Created by: 	Fabrizio Fallico
-Release:	v.1 - 2011/04/24 [Happy Easter :D]
+Release:		v.1 - 2011/04/24 [Happy Easter :D]
 Note:          	Feel free to modify this style and re-release it.
-		__This is my favorite style to work with Notepad++__
-		  {Here I use "Segoe UI Semibold" that is natively present only in Microsoft Windows 7}
+			This is my favorite style to work with Notepad++__
+			{Here I use "Segoe UI Semibold" that is natively present only in Microsoft Windows 7}
 
 Keep Notepad++ development active, donate!
 	http://sourceforge.net/donate/index.php?group_id=95717
 
 This style is available under the terms of the GNU Free License.
-
 -->
+
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="">
