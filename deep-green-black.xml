@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!--
-Style Name:					Deep Green Black
-Description:					Based on the theme Port VibrantInk by tyler and DeepBlack by Mariusz Kasperkiewicz
-File name:						deep-green-black.xml
-Created by: 					Fabrizio Fallico
-Featured language:  		Python, (X)HTML, SQL, C, C++, Pascal, PHP, CSS, JavaScript, XML, Ruby
-Note:               				Feel free to modify this style and re-release it. This style is available under the terms of the GNU Free License.
-									__This is my favorite style to work with Notepad++ on my Windows 7__
-									{Here I use "Segoe UI Semibold" that is present only in Windows 7}
+Style Name:	Deep Green Black
+Description:	Based on the theme "Port VibrantInk" by tyler and "DeepBlack" by Mariusz Kasperkiewicz
+File name:	deep-green-black.xml
+Created by: 	Fabrizio Fallico
+Release:	v.1 - 2011/04/24 [Happy Easter :D]
+Note:          	Feel free to modify this style and re-release it.
+		__This is my favorite style to work with Notepad++__
+		  {Here I use "Segoe UI Semibold" that is natively present only in Microsoft Windows 7}
 
 Keep Notepad++ development active, donate!
-http://sourceforge.net/donate/index.php?group_id=95717
+	http://sourceforge.net/donate/index.php?group_id=95717
 
-2011/04/24 - Happy Easter :D
+This style is available under the terms of the GNU Free License.
+
 -->
 <NotepadPlus>
     <LexerStyles>
@@ -715,7 +716,7 @@ http://sourceforge.net/donate/index.php?group_id=95717
         <WidgetStyle name="Global override" styleID="0" fgColor="FFFFFF" bgColor="000000" fontName="Segoe UI Semibold" fontStyle="0" fontSize="11" />
         <WidgetStyle name="Default Style" styleID="32" fgColor="FFFFFF" bgColor="000000" fontName="Courier New" fontStyle="0" fontSize="11" />
         <WidgetStyle name="Indent guideline style" styleID="37" fgColor="C0C0C0" bgColor="000000" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="00FF00" bgColor="000000" fontName="" fontStyle="1" fontSize="" />
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="00FF00" bgColor="000000" fontName="" fontStyle="0" fontSize="" />
         <WidgetStyle name="Bad brace colour" styleID="35" fgColor="FF0000" bgColor="000000" fontName="" fontStyle="1" fontSize="" />
         <WidgetStyle name="Current line background colour" styleID="0" bgColor="333333" fgColor="0080C0" fontSize="" fontStyle="0" />
         <WidgetStyle name="Selected text colour" styleID="0" bgColor="400000" fgColor="CC0000" />
