@@ -3,10 +3,15 @@
 ## A Notepad++ Theme - Based on Deep Black ##
 
 **Style Name**:		Deep Green Black
+
 **Description**:	Based on the theme "Port VibrantInk" by tyler and "DeepBlack" by Mariusz Kasperkiewicz
+
 **File name**:		deep-green-black.xml
+
 **Created by**: 	Fabrizio Fallico
+
 **Release**:		v.1 - 2011/04/24 [Happy Easter :D]
+
 **Note**:          	Feel free to modify this style and re-release it.
 
 Here I use "Segoe UI Semibold" that is a default font only in Windows 7 (and above) systems.
