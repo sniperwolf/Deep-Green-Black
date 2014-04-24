@@ -15,5 +15,3 @@ Keep Notepad++ development active, donate!
 	http://sourceforge.net/donate/index.php?group_id=95717
 
 This style is available under the terms of the GNU Free License.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sniperwolf/the-little-book-on-coffeescript-italiano/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
